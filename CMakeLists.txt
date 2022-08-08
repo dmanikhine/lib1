@@ -1,6 +1,6 @@
 ﻿cmake_minimum_required (VERSION 3.20)
 
-set (project_name "lib1")
+set (project_name "dma")
 
 project (${project_name})
 add_library(${project_name} "")
