@@ -1,0 +1,1 @@
+﻿int lib1_print(std::string message);
